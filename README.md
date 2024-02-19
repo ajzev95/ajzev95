@@ -1,9 +1,19 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 1" style="float: left; margin-right: 25px;">
-<p style="float: left; margin-top: 55px; margin-left: 40px; text-align: center; font-size: 18px;">BIENVENIDOS A MI GITHUB</p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 2" style="float: right; margin-left: 12px; margin-top: px;">
+<div style="overflow: hidden;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 1" style="float: left; margin-right: 25px;">
+    <p style="float: left; margin-top: 55px; margin-left: 40px; text-align: center; font-size: 18px;">BIENVENIDOS A MI GITHUB</p>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 2" style="float: right; margin-left: 12px; margin-top: px;">
+</div>
 
-![Mi Banner](banner-github.png)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008645950852)
+<div style="text-align: center; margin-top: 20px;">
+    <img src="banner-github.png" alt="Mi Banner" style="width: 100%;">
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://www.facebook.com/profile.php?id=100008645950852">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+    </a>
+</div>
+
 
 
 Soy un programador y desarrollador web, dedicado y apasionado con experiencia en el desarrollo de software. Poseo sólidos conocimientos en lenguajes como Java y Framework, y tengo habilidades para resolver problemas de manera eficiente y eficas. Disfruto trabajando en equipo, me adapto fácilmente a nuevas tecnologías y mantengo altos estándares de calidad en el código que desarrollo.
