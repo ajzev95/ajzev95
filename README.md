@@ -20,8 +20,6 @@ Soy un programador y desarrollador web, dedicado y apasionado con experiencia en
 
 
 
-
-
 <!--
 **ajzev95/ajzev95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
