@@ -1,18 +1,9 @@
 <div style="overflow: hidden;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 1" style="float: left; margin-right: 25px;">
-    <p style="font-size: 24px; text-align: center; margin-top: 55px; margin-left: auto; margin-right: 150px;">BIENVENIDOS A MI GITHUB</p>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 2" style="float: right; margin-left: 45px; margin-top: -100px;">
+    <p style="font-size: 24px; text-align: center; margin-top: 55px; margin-left: auto; margin-right: 0;">BIENVENIDOS A MI GITHUB</p>
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-    <img src="banner-github.png" alt="Mi Banner" style="width: 100%;">
-</div>
-
-<div style="text-align: center; margin-top: 20px;">
-    <a href="https://www.facebook.com/profile.php?id=100008645950852">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-    </a>
-</div>
 
 
 
