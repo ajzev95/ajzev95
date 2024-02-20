@@ -1,8 +1,19 @@
 <div style="overflow: hidden;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 1" style="float: left; margin-right: 25px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 2" style="float: right; margin-left: 45px; margin-top: -100px;">
-    <p style="font-size: 24px; text-align: center; margin-top: 55px; margin-left: auto; margin-right: 0;">BIENVENIDOS A MI GITHUB</p>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 2" style="margin-right: 25px; margin-top: -100px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 2" style="margin-right: 25px; margin-top: -100px;">
+    <p style="font-size: 24px; text-align: right; margin-top: 25px; margin-right: 25px;">💻BIENVENIDOS A MI PERFIL DE GITHUB💻</p>
+    <hr style="clear:both; width: 80%; margin: 0 auto;">
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
