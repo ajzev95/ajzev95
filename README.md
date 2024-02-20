@@ -5,7 +5,11 @@
     <hr style="clear:both; width: 80%; margin: 0 auto;">
 </div>
 
-
+![ajzev95 Stats](banner-github.png)
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/ajzev95"/>
+  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="https://web.facebook.com/profile.php?id=100008645950852"/>
+</div>
 
 
 
