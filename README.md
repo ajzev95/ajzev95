@@ -5,7 +5,7 @@
     <hr style="clear:both; width: 80%; margin: 0 auto;">
 </div>
 
-![ajzev95 Stats](banner-github.png)
+![ajzev95 Stats](banner-githu.png)
 
 
 Soy un programador y desarrollador web, dedicado y apasionado con experiencia en el desarrollo de software. Poseo sólidos conocimientos en lenguajes como Java y Framework, y tengo habilidades para resolver problemas de manera eficiente y eficas. Disfruto trabajando en equipo, me adapto fácilmente a nuevas tecnologías y mantengo altos estándares de calidad en el código que desarrollo.
