@@ -1,6 +1,6 @@
 <div style="overflow: hidden; text-align: center;">
     <div style="margin-top: 15px;">
-       ## <p style="font-size: 40px; margin: 0; font-weight: bold;">💻BIENVENIDOS A MI PERFIL DE GITHUB💻</p>
+      <p style="font-size: 40px; margin: 0; font-weight: bold;">💻BIENVENIDOS A MI PERFIL DE GITHUB💻</p>
     </div>
     <hr style="clear: both; width: 100%; margin: 25px auto 10;">
 </div>
