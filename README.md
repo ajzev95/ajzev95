@@ -10,10 +10,17 @@
 
 Soy un programador y desarrollador web, dedicado y apasionado con experiencia en el desarrollo de software. Poseo sólidos conocimientos en lenguajes como Java y Framework, y tengo habilidades para resolver problemas de manera eficiente y eficas. Disfruto trabajando en equipo, me adapto fácilmente a nuevas tecnologías y mantengo altos estándares de calidad en el código que desarrollo.
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ajzev95" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ajzev95@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100008645950852" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
 </div>
+
 
 ### Tecnologias 💻 
 <hr style="clear: both; width: 100%; margin: 25px auto 10;">
