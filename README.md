@@ -2,12 +2,6 @@
     <div style="margin-top: 12px;">
         <p style="font-size: 30px; margin: 0;">💻BIENVENIDOS A MI PERFIL DE GITHUB💻</p>
     </div>
-    <div style="margin-top: 25px; margin-left: 25px; float: left;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 1" style="margin: 0; padding: 0; margin-top: -9999px;">
-    </div>
-    <div style="float: right; margin-top: 25px; margin-right: 25px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NmMHVlbG84NDF4OGM5N3JlMnJ0MTA3Nmk3M2h3ZGhkN292ODh3dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" class="gif" alt="Gif 2" style="margin: 0; padding: 0; margin-top: -9999px;">
-    </div>
     <hr style="clear: both; width: 100%; margin: 25px auto 10;">
 </div>
 
@@ -15,6 +9,11 @@
 
 
 Soy un programador y desarrollador web, dedicado y apasionado con experiencia en el desarrollo de software. Poseo sólidos conocimientos en lenguajes como Java y Framework, y tengo habilidades para resolver problemas de manera eficiente y eficas. Disfruto trabajando en equipo, me adapto fácilmente a nuevas tecnologías y mantengo altos estándares de calidad en el código que desarrollo.
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</div>
 
 ### Tecnologias 💻 
 <hr style="clear: both; width: 100%; margin: 25px auto 10;">
